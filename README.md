@@ -1,2 +1,2 @@
 # samgram_demo
-fist repository
+fist repository learn
